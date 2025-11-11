@@ -1,0 +1,3 @@
+SupplierID,SupplyCap_ProductA,SupplyCap_ProductB,FixedCost,Location
+S1,150,100,10000,North
+S2,200,150,12000,South

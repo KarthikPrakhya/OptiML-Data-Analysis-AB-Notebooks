@@ -1,0 +1,6 @@
+DISCLAIMER
+
+These notebooks are provided for educational and demonstration purposes only.
+They use synthetic or public data and are not based on confidential client data.
+OptiML Data Analysis AB provides no warranties as to the fitness of the code for 
+production use.

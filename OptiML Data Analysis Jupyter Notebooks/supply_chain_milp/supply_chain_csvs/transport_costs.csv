@@ -1,0 +1,7 @@
+Origin,Destination,Product,CostPerUnit
+F1,C1,ProductA,5
+F1,C2,ProductA,6
+F2,C2,ProductB,4
+F2,C3,ProductA,7
+F3,C1,ProductB,6
+F3,C3,ProductB,5

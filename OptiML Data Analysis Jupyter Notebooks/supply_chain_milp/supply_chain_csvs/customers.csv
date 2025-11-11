@@ -1,0 +1,4 @@
+CustomerID,Demand_ProductA,Demand_ProductB,Location
+C1,100,50,North
+C2,80,40,East
+C3,60,30,West

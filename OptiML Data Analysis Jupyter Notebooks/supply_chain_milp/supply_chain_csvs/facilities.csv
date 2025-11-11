@@ -1,0 +1,4 @@
+FacilityID,Capacity_ProductA,Capacity_ProductB,FixedCost,Location
+F1,120,70,20000,North
+F2,100,50,18000,East
+F3,80,40,15000,West
