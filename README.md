@@ -10,13 +10,14 @@ The following table maps the case study titles (as they appear on the website: w
 
 The following notebooks are in this repository:
 - **Supply Chain Network Optimization for Nordic Manufacturer** → `OptiML Data Analysis Jupyter Notebooks/supply_chain_milp/supply_chain_milp_notebook.ipynb`
+- **Optimal Power Systems Analysis for Energy Grid Operator** → `OptiML Data Analysis Jupyter Notebooks/opf_stochastic_unit_commitment_lstm_aws_notebook.ipynb`
+- **Predictive Maintenance for European Energy Company** → `OptiML Data Analysis Jupyter Notebooks/ensemble_failure_prediction_notebook.ipynb`
+
 
 The following notebooks are in progress and will be added shortly.
-- **Predictive Maintenance for European Energy Company** → `OptiML Data Analysis Jupyter Notebooks/ensemble_failure_prediction_notebook.ipynb`
 - **Dynamic Pricing Engine for US E-commerce Platform** → `OptiML Data Analysis Jupyter Notebooks/dynamic_pricing_rl/dynamic_pricing_rl_notebook_notebook.ipynb`
 - **Workforce Scheduling Optimization for Healthcare Network** → `OptiML Data Analysis Jupyter Notebooks/workforce_optimization_notebook.ipynb`
 - **Fraud Detection System for Financial Institution** → `OptiML Data Analysis Jupyter Notebooks/advanced_fraud_detection_notebook.ipynb`
-- **Optimal Power Systems Analysis for Energy Grid Operator** → `OptiML Data Analysis Jupyter Notebooks/opf_stochastic_unit_commitment_lstm_aws_notebook.ipynb`
 - **Shipping & Transportation Network Optimization for Logistics Provider** → `OptiML Data Analysis Jupyter Notebooks/vrp_branch_and_price_notebook.ipynb`
 - **Automated Target Detection & Classification for Defense Applications** → `OptiML Data Analysis Jupyter Notebooks/advanced_cv_pipeline_notebook.ipynb`
 - **Multi-Echelon Inventory Optimization for Retail Chain** → `OptiML Data Analysis Jupyter Notebooks/inventory_digital_twin_notebook.ipynb`
